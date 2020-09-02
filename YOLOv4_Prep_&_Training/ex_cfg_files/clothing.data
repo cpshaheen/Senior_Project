@@ -1,0 +1,5 @@
+classes = 19 
+train = /home/sbalemi/alexeyAB/darknet/clth_stuff/train.txt
+valid = /home/sbalemi/alexeyAB/darknet/clth_stuff/test.txt
+names = /home/sbalemi/alexeyAB/darknet/clth_stuff/clothing.names
+backup = backup/

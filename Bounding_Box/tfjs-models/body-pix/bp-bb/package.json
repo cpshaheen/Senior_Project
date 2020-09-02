@@ -1,0 +1,17 @@
+{
+  "name": "bp-test",
+  "version": "1.0.0",
+  "description": "an attempt at running body pix locally",
+  "main": "bp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "userShah",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/body-pix": "^2.0.5",
+    "@tensorflow/tfjs": "^1.7.1",
+    "canvas": "^2.6.1",
+    "inkjet": "^2.1.2"
+  }
+}

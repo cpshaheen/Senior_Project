@@ -1,0 +1,15 @@
+Desired Attributes / Attribute Label Synonyms 
+
+hooded / hood
+buttoned / button
+zippered / zip
+* longsleeve / long sleeve / longsleeve / long-sleeve
+* shortsleeve / short sleeve / shortsleeve / short-sleeve
+denim / jean / denim
+leather / leather
+plaid / plaid / flannel
+fur / fur
+camouflage / camo
+* sleeveless / sleeveless
+striped / stripe
+dotted / dot 

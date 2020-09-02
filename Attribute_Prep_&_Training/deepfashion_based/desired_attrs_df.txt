@@ -1,0 +1,57 @@
+Desired Attributes from deep fashion:
+
+buttoned                     4
+button                       4
+button-front                 4
+one-button                   4
+single-button                4
+two-button                   4
+camo                         1
+camouflage                   1
+checkered                    1
+denim                        2
+denim drawstring             2
+denim pencil                 3
+denim shift                  3             
+denim shirt                  2
+denim skater                 3        
+denim utility                2
+dotted                       1
+fur                          2
+hood                         4
+hooded                       4
+hooded_maxi                  4
+hooded_utility               4
+knit                         2
+leather                      2
+leather mini                 3
+leather moto                 3
+leather paneled              2
+leather pencil               3
+leather peplum               4
+leather quilted              2
+leather skater               3
+leather trimmed              4
+leather varsity              3
+leather-paneled              2
+leather-trimmed              4
+faux fur                     2
+faux leather                 2
+faux leather mini            3
+faux leather moto            3
+faux leather paneled         3
+faux leather pencil          3
+faux leather skater          3
+faux leather varsity         3
+faux leather-paneled         3
+faux leather-trimmed         4
+mesh                         2
+plaid                        2
+puffer                       3
+zip                          4
+zip-front                    4
+zip-pocket                   4
+zip-up                       4
+zipped                       4
+zipper                       4
+zippered                     4
