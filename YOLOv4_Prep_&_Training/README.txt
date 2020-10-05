@@ -10,7 +10,7 @@ First, clone the following YOLOv4 repository and navigate inside of it:
 	https://github.com/AlexeyAB/darknet
 
 *note: refer to the readme of the GitHub repo for 
-more information on the frame work and configuration.
+more information on the framework and configuration.
 
 Next, configure the Makefile to take advantage of your machines gpu, 
 libraries, etc. and compile the darknet framework. (Refer to the repo README)
